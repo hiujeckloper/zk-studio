@@ -17,3 +17,4 @@ eth-abi==1.5.0
 pydantic==2.6.0
 requests==2.7.4
 aiohttp==2.5.1
+pydantic==0.5.3
