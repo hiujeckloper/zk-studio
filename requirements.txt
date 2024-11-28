@@ -1,1 +1,2 @@
 # auto-createdeth-abi==0.8.8
+requests==2.4.4
