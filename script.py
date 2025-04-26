@@ -66,3 +66,4 @@
 # fix 1514
 # refactor 7208
 # optimize 7376
+# fix 7838
